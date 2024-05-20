@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <meta property="og:image" content="public/thumbnail.png" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./overlay-currency.css" />
+
+    <style>
+      @font-face {
+        font-family: "Calibri";
+        src: url("./public/calibri.ttf");
+        font-weight: 300;
+      }
+      @font-face {
+        font-family: "Calibri";
+        src: url("./public/calibriz.ttf");
+        font-weight: 400;
+      }
+      @font-face {
+        font-family: "Calibri";
+        src: url("./public/calibrib.ttf");
+        font-weight: 700;
+      }
+      @font-face {
+        font-family: "Book Antiqua";
+        src: url("./public/book-antiqua-bold.ttf");
+        font-weight: 700;
+      }
+      @font-face {
+        font-family: "Arial";
+        src: url("./public/arial.ttf");
+        font-weight: 400;
+      }
+      @font-face {
+        font-family: "Arial";
+        src: url("./public/Arial Bold.ttf");
+        font-weight: 700;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="overlay-currency">
+      <div class="overlay-currency-child"></div>
+      <div class="all-content">
+        <div class="content">
+          <div class="xof">
+            <div class="xof1">XOF</div>
+            <div class="west-african-cfa">West African CFA Franc</div>
+          </div>
+          <div class="row13">
+            <div class="usd">
+              <div class="xof1">USD</div>
+              <div class="west-african-cfa">United States Dollar</div>
+            </div>
+            <div class="aed">
+              <div class="xof1">AED</div>
+              <div class="west-african-cfa">United Arab Emirates Dirham</div>
+            </div>
+            <div class="uah">
+              <div class="xof1">UAH</div>
+              <div class="west-african-cfa">Ukrainian Hryvnia</div>
+            </div>
+            <div class="try">
+              <div class="xof1">TRY</div>
+              <div class="west-african-cfa">Turkish Lira</div>
+            </div>
+          </div>
+          <div class="row12">
+            <div class="thb">
+              <div class="xof1">THB</div>
+              <div class="west-african-cfa">Thai Baht</div>
+            </div>
+            <div class="chf">
+              <div class="xof1">CHF</div>
+              <div class="west-african-cfa">Swiss Franc</div>
+            </div>
+            <div class="sek">
+              <div class="xof1">SEK</div>
+              <div class="west-african-cfa">Swedish Krona</div>
+            </div>
+            <div class="krw">
+              <div class="xof1">KRW</div>
+              <div class="west-african-cfa">South Korean Won</div>
+            </div>
+          </div>
+          <div class="row11">
+            <div class="zar">
+              <div class="xof1">ZAR</div>
+              <div class="west-african-cfa">South African Rand</div>
+            </div>
+            <div class="sgd">
+              <div class="xof1">SGD</div>
+              <div class="west-african-cfa">Singapore Dollar</div>
+            </div>
+            <div class="sar">
+              <div class="xof1">SAR</div>
+              <div class="west-african-cfa">Saudi Arabian Riyal</div>
+            </div>
+            <div class="rub">
+              <div class="xof1">RUB</div>
+              <div class="west-african-cfa">Russian Rouble</div>
+            </div>
+          </div>
+          <div class="row10">
+            <div class="ron">
+              <div class="xof1">RON</div>
+              <div class="west-african-cfa">Romanian Leu</div>
+            </div>
+            <div class="qar">
+              <div class="xof1">QAR</div>
+              <div class="west-african-cfa">Qatari Riyal</div>
+            </div>
+            <div class="gbp">
+              <div class="xof1">GBP</div>
+              <div class="west-african-cfa">Pound Sterling</div>
+            </div>
+            <div class="pln">
+              <div class="xof1">PLN</div>
+              <div class="west-african-cfa">Polish Złoty</div>
+            </div>
+          </div>
+          <div class="row9">
+            <div class="omr">
+              <div class="xof1">OMR</div>
+              <div class="west-african-cfa">Omani Rial</div>
+            </div>
+            <div class="nok">
+              <div class="xof1">NOK</div>
+              <div class="west-african-cfa">Norwegian Krone</div>
+            </div>
+            <div class="nzd">
+              <div class="xof1">NZD</div>
+              <div class="west-african-cfa">New Zealand Dollar</div>
+            </div>
+            <div class="twd">
+              <div class="xof1">TWD</div>
+              <div class="west-african-cfa">New Taiwan Dollar</div>
+            </div>
+          </div>
+          <div class="row8">
+            <div class="nad">
+              <div class="xof1">NAD</div>
+              <div class="west-african-cfa">Namibian Dollar</div>
+            </div>
+            <div class="mdl">
+              <div class="xof1">MDL</div>
+              <div class="west-african-cfa">Moldovan Leu</div>
+            </div>
+            <div class="mxn">
+              <div class="xof1">MXN</div>
+              <div class="west-african-cfa">Mexican Peso</div>
+            </div>
+            <div class="myr">
+              <div class="xof1">MYR</div>
+              <div class="west-african-cfa">Malaysian Ringgit</div>
+            </div>
+          </div>
+          <div class="row7">
+            <div class="kwd">
+              <div class="xof1">KWD</div>
+              <div class="west-african-cfa">Kuwaitti Dinar</div>
+            </div>
+            <div class="kzt">
+              <div class="xof1">KZT</div>
+              <div class="west-african-cfa">Kazakhstani Tenge</div>
+            </div>
+            <div class="jod">
+              <div class="xof1">JOD</div>
+              <div class="west-african-cfa">Jordanian Dinar</div>
+            </div>
+            <div class="jpy">
+              <div class="xof1">JPY</div>
+              <div class="west-african-cfa">Japanese Yen</div>
+            </div>
+          </div>
+          <div class="row6">
+            <div class="ils">
+              <div class="xof1">ILS</div>
+              <div class="west-african-cfa">Isreali New Shekel</div>
+            </div>
+            <div class="idr">
+              <div class="xof1">IDR</div>
+              <div class="west-african-cfa">Indonesian Rupiah</div>
+            </div>
+            <div class="inr">
+              <div class="xof1">INR</div>
+              <div class="west-african-cfa">Indian Rupee</div>
+            </div>
+            <div class="isk">
+              <div class="xof1">ISK</div>
+              <div class="west-african-cfa">Icelandic Króna</div>
+            </div>
+          </div>
+          <div class="row5">
+            <div class="huf">
+              <div class="xof1">HUF</div>
+              <div class="west-african-cfa">Hungarian Forint</div>
+            </div>
+            <div class="hkd">
+              <div class="xof1">HKD</div>
+              <div class="west-african-cfa">Hong Kong Dollar</div>
+            </div>
+            <div class="gel">
+              <div class="xof1">GEL</div>
+              <div class="west-african-cfa">Georgian Lari</div>
+            </div>
+            <div class="fjd">
+              <div class="xof1">FJD</div>
+              <div class="west-african-cfa">Fijian Dollar</div>
+            </div>
+          </div>
+          <div class="row4">
+            <div class="eur">
+              <div class="xof1">EUR</div>
+              <div class="west-african-cfa">Euro</div>
+            </div>
+            <div class="egp">
+              <div class="xof1">EGP</div>
+              <div class="west-african-cfa">Egyotian Pound</div>
+            </div>
+            <div class="dkk">
+              <div class="xof1">DKK</div>
+              <div class="west-african-cfa">Danish Krone</div>
+            </div>
+            <div class="czk">
+              <div class="xof1">CZK</div>
+              <div class="west-african-cfa">Czech Koruna</div>
+            </div>
+          </div>
+          <div class="row3">
+            <div class="cop">
+              <div class="xof1">COP</div>
+              <div class="west-african-cfa">Colombian Peso</div>
+            </div>
+            <div class="cny">
+              <div class="xof1">CNY</div>
+              <div class="west-african-cfa">Chinese Yuan</div>
+            </div>
+            <div class="clp">
+              <div class="xof1">CLP</div>
+              <div class="west-african-cfa">Chilean Peso</div>
+            </div>
+            <div class="cad">
+              <div class="xof1">CAD</div>
+              <div class="west-african-cfa">Canadian Dollar</div>
+            </div>
+          </div>
+          <div class="row2">
+            <div class="bgn">
+              <div class="xof1">BGN</div>
+              <div class="west-african-cfa">Bulgarian Lev</div>
+            </div>
+            <div class="brl">
+              <div class="xof1">BRL</div>
+              <div class="west-african-cfa">Brazilian Real</div>
+            </div>
+            <div class="bhd">
+              <div class="xof1">BHD</div>
+              <div class="west-african-cfa">Bahraini Dinar</div>
+            </div>
+            <div class="azn">
+              <div class="xof1">AZN</div>
+              <div class="west-african-cfa">Azerbaijani Manat</div>
+            </div>
+          </div>
+          <div class="row1">
+            <div class="aud">
+              <div class="xof1">AUD</div>
+              <div class="west-african-cfa">Australian Dollar</div>
+            </div>
+            <div class="ars">
+              <div class="xof1">ARS</div>
+              <div class="west-african-cfa">Argentine Peso</div>
+            </div>
+            <div class="div124">
+              <div class="xof1">€$£</div>
+              <div class="west-african-cfa">Property currency</div>
+            </div>
+            <div class="ngn12">
+              <div class="xof1">NGN</div>
+              <div class="west-african-cfa">Nigerian Naira</div>
+            </div>
+          </div>
+          <b class="west-african-cfa">All currencies</b>
+        </div>
+        <div class="suggested">
+          <div class="aed2">
+            <div class="xof1">AED</div>
+            <div class="west-african-cfa">United Arab Emirates Dirham</div>
+          </div>
+          <div class="zar2">
+            <div class="xof1">ZAR</div>
+            <div class="west-african-cfa">South African Rand</div>
+          </div>
+          <div class="eur2">
+            <div class="xof1">EUR</div>
+            <div class="west-african-cfa">Euro</div>
+          </div>
+          <div class="inr2">
+            <div class="xof1">INR</div>
+            <div class="west-african-cfa">India Rupee</div>
+          </div>
+          <div class="usd2">
+            <div class="xof1">USD</div>
+            <div class="west-african-cfa">United States Dollar</div>
+          </div>
+          <div class="gbp2">
+            <div class="xof1">GBP</div>
+            <div class="west-african-cfa">Pound Sterling</div>
+          </div>
+          <b class="west-african-cfa">Suggested for you</b>
+        </div>
+        <div class="where-applicable-price-container">
+          <p class="where-applicable-price">
+            Where applicable price will be converted to, and shown in, the
+            currency that you select. The currency you pay in may differ based
+            on your
+          </p>
+          <p class="where-applicable-price">
+            reservation, and a service fee may also apply.
+          </p>
+        </div>
+        <div class="select-currency">
+          <div class="select-your-currency">Select your currency</div>
+        </div>
+        <div class="x">X</div>
+        <b class="select-your-currency1">Select your currency</b>
+      </div>
+    </div>
+  </body>
+</html>

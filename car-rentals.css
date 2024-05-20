@@ -1,0 +1,1571 @@
+.car-rentals-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-teal);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 94px;
+}
+.bespeakcom-is-part1,
+.copyright-2024-20241 {
+  position: absolute;
+  bottom: 142px;
+  left: 364px;
+  font-weight: 300;
+}
+.copyright-2024-20241 {
+  bottom: 254px;
+  left: 73px;
+}
+.extranet-login1 {
+  position: absolute;
+  bottom: 362px;
+  left: 870px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-lightseagreen);
+}
+.homes1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 573.5px);
+}
+.car-hire1,
+.unique-places-to1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 325.5px);
+}
+.car-hire1 {
+  left: calc(50% + 50.5px);
+}
+.coronavirus-covid-19-faqs1 {
+  position: absolute;
+  top: 0;
+  right: 44px;
+}
+.apartments2,
+.regions3 {
+  position: absolute;
+  top: 67px;
+}
+.regions3 {
+  left: 0;
+}
+.apartments2 {
+  left: calc(50% - 573.5px);
+}
+.all-destinations1,
+.flight-finder1 {
+  position: absolute;
+  top: 67px;
+  left: calc(50% - 325.5px);
+}
+.flight-finder1 {
+  left: calc(50% + 50.5px);
+}
+.about-bespeak1 {
+  position: absolute;
+  top: 67px;
+  right: 217px;
+}
+.cities3,
+.resorts2 {
+  position: absolute;
+  top: 134px;
+}
+.cities3 {
+  left: 0;
+}
+.resorts2 {
+  left: calc(50% - 573.5px);
+}
+.all-flight-destinations1,
+.restaurant-reservations1 {
+  position: absolute;
+  top: 134px;
+  left: calc(50% - 325.5px);
+}
+.restaurant-reservations1 {
+  left: calc(50% + 50.5px);
+}
+.customer-service-help2 {
+  position: absolute;
+  top: 134px;
+  right: 128px;
+}
+.districts1,
+.villas2 {
+  position: absolute;
+  top: calc(50% - 320px);
+}
+.districts1 {
+  left: 0;
+}
+.villas2 {
+  left: calc(50% - 573.5px);
+}
+.all-car-hire1 {
+  left: calc(50% - 325.5px);
+}
+.all-car-hire1,
+.bespeak-for-travel1,
+.partner-help1 {
+  position: absolute;
+  top: calc(50% - 320px);
+}
+.bespeak-for-travel1 {
+  left: calc(50% + 50.5px);
+}
+.partner-help1 {
+  right: 249px;
+}
+.airports1 {
+  position: absolute;
+  top: calc(50% - 253px);
+  left: 0;
+}
+.all-holiday-destinations1,
+.careers1,
+.hostels2 {
+  position: absolute;
+  top: calc(50% - 253px);
+  left: calc(50% - 573.5px);
+}
+.all-holiday-destinations1,
+.careers1 {
+  left: calc(50% - 325.5px);
+}
+.careers1 {
+  left: calc(50% + 469.5px);
+}
+.hotels2 {
+  position: absolute;
+  top: calc(50% - 186px);
+  left: 0;
+}
+.bbs2 {
+  left: calc(50% - 573.5px);
+}
+.bbs2,
+.reviews2,
+.sustainability1 {
+  position: absolute;
+  top: calc(50% - 186px);
+}
+.reviews2 {
+  left: calc(50% - 325.5px);
+}
+.sustainability1 {
+  right: 238px;
+}
+.places-of-interest3 {
+  position: absolute;
+  top: calc(50% - 119px);
+  left: 0;
+}
+.discover-monthly-stays1,
+.guests-houses1 {
+  position: absolute;
+  top: calc(50% - 119px);
+  left: calc(50% - 573.5px);
+}
+.discover-monthly-stays1 {
+  left: calc(50% - 325.5px);
+}
+.press-center1 {
+  position: absolute;
+  top: calc(50% - 119px);
+  right: 251px;
+}
+.unpacked-travel-articles1 {
+  position: absolute;
+  top: calc(50% - 52px);
+  left: calc(50% - 325.5px);
+}
+.safety-resource-center1 {
+  position: absolute;
+  top: calc(50% - 52px);
+  right: 128px;
+}
+.seasonal-and-holiday1 {
+  position: absolute;
+  top: calc(50% + 15px);
+  left: calc(50% - 325.5px);
+}
+.investor-relations1 {
+  position: absolute;
+  top: calc(50% + 15px);
+  right: 189px;
+}
+.traveller-review-awards1 {
+  position: absolute;
+  top: calc(50% + 82px);
+  left: calc(50% - 325.5px);
+}
+.terms-conditions1 {
+  position: absolute;
+  top: calc(50% + 82px);
+  right: 163px;
+}
+.partner-dispute1 {
+  position: absolute;
+  top: calc(50% + 149px);
+  right: 212px;
+}
+.how-we-work1,
+.privacy-cookie1 {
+  position: absolute;
+  top: calc(50% + 216px);
+  right: 233px;
+}
+.privacy-cookie1 {
+  top: calc(50% + 283px);
+  right: 63px;
+}
+.msa-statement1 {
+  position: absolute;
+  right: 210px;
+  bottom: 134px;
+}
+.corporate-contact1 {
+  position: absolute;
+  right: 180px;
+  bottom: 67px;
+}
+.countries2 {
+  position: absolute;
+  bottom: 466px;
+  left: 73px;
+  width: 1741px;
+  height: 1042px;
+  color: var(--color-lightseagreen);
+}
+.mobile-version1,
+.your-account1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-decoration: underline;
+}
+.your-account1 {
+  left: 236px;
+}
+.customer-service-help3,
+.make-changes-to1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 359.5px);
+  text-decoration: underline;
+}
+.customer-service-help3 {
+  left: calc(50% + 156.5px);
+}
+.bespeakcom-for-business1 {
+  position: absolute;
+  top: 0;
+  right: -1px;
+  text-decoration: underline;
+}
+.links1 {
+  position: absolute;
+  width: calc(100% - 307.5px);
+  right: 216.5px;
+  bottom: 18px;
+  left: 91px;
+  height: 37px;
+}
+.list-your-property-item {
+  position: absolute;
+  width: calc(100% + 1.5px);
+  top: calc(50% + 6px);
+  right: 0;
+  left: -1.5px;
+  border-top: 2px solid var(--color-white);
+  box-sizing: border-box;
+  height: 4px;
+}
+.list-your-property5 {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: 25px;
+}
+.list-your-property4 {
+  position: absolute;
+  top: 16px;
+  left: calc(50% - 133.25px);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-darkcyan);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 266px;
+  height: 59px;
+}
+.list-your-property3 {
+  position: absolute;
+  top: 4597px;
+  left: 0;
+  background-color: var(--color-darkturquoise);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1920.5px;
+  height: 167px;
+  color: var(--color-white);
+}
+.privacy-statement1 {
+  text-decoration: underline;
+  color: var(--color-blue);
+}
+.you-can-opt-container1 {
+  position: absolute;
+  bottom: 6px;
+  left: calc(50% - 316px);
+  font-weight: 300;
+}
+.your-email-address1 {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: 18px;
+}
+.email1 {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 218px);
+  top: 0;
+  right: 218px;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+}
+.subscribe1 {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: calc(50% - 59px);
+}
+.subscribe-btn1 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-cadetblue);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 210px;
+  color: var(--color-white);
+}
+.email-subscribe1 {
+  position: absolute;
+  top: calc(50% + 41.5px);
+  left: calc(50% - 397px);
+  width: 731px;
+  height: 59px;
+  color: var(--color-dimgray);
+}
+.sign-up-to-container1 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-weight: 300;
+}
+.stay-in-the1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 122px);
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+  text-align: left;
+}
+.stay-in-the-know3 {
+  position: absolute;
+  width: calc(100% - 356px);
+  top: 27px;
+  right: 178px;
+  left: 178px;
+  height: 149px;
+  text-align: center;
+  color: var(--color-gainsboro);
+}
+.stay-in-the-know2 {
+  position: absolute;
+  top: 4294px;
+  left: 0;
+  background-color: var(--color-darkcyan);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 303px;
+  color: var(--color-white);
+}
+.more-options-icon {
+  position: absolute;
+  bottom: 0;
+  left: 51px;
+  width: 197px;
+  height: 37px;
+  object-fit: cover;
+}
+.average-price-of-container {
+  position: absolute;
+  right: -1px;
+  bottom: 0;
+}
+.car-hire-locations {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+  font-weight: 300;
+  color: var(--color-dimgray);
+}
+.madrid-97-car-hire-container {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 182px);
+  font-size: var(--font-size-16xl);
+}
+.madrid-child {
+  position: absolute;
+  height: calc(100% - 2px);
+  top: 2px;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  max-height: 100%;
+  width: 117px;
+  object-fit: cover;
+}
+.madrid {
+  position: absolute;
+  right: 0;
+  bottom: 69px;
+  width: 614px;
+  height: 118px;
+}
+.average-price-of-container1 {
+  position: absolute;
+  right: -1px;
+  bottom: 4px;
+}
+.car-hire-loca {
+  font-weight: 300;
+}
+.car-hire-locations1 {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+  color: var(--color-dimgray);
+}
+.aiea-child {
+  position: absolute;
+  height: calc(100% - 1px);
+  top: 1px;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  max-height: 100%;
+  width: 117px;
+  object-fit: cover;
+}
+.aiea {
+  position: absolute;
+  top: calc(50% - 93.5px);
+  right: 0;
+  width: 614px;
+  height: 117px;
+}
+.calgary-40-car-hire-container {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 177.5px);
+  font-size: var(--font-size-16xl);
+}
+.calgary,
+.irving {
+  position: absolute;
+  left: calc(50% - 314px);
+  width: 613px;
+}
+.calgary {
+  bottom: 69px;
+  height: 118px;
+}
+.irving {
+  top: calc(50% - 93.5px);
+  height: 117px;
+}
+.average-price-of-container4 {
+  position: absolute;
+  bottom: 0;
+  left: 123px;
+}
+.dania-beach-91-car-container {
+  position: absolute;
+  top: 0;
+  left: 129px;
+  font-size: var(--font-size-16xl);
+}
+.coolangatta-child,
+.dania-beach-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  max-height: 100%;
+  width: 117px;
+  object-fit: cover;
+}
+.dania-beach-child {
+  height: calc(100% - 9px);
+  bottom: 9px;
+}
+.coolangatta-child {
+  height: 100%;
+  bottom: 0;
+}
+.coolangatta,
+.dania-beach {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.coolangatta {
+  height: calc(100% - 9px);
+  bottom: 9px;
+  width: 614px;
+}
+.dania-beach {
+  width: 1259px;
+  height: 125px;
+}
+.san-diego-74-car-container {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 179px);
+  font-size: var(--font-size-16xl);
+}
+.san-diego {
+  bottom: 69px;
+  height: 118px;
+}
+.el-segundo,
+.phoenix,
+.san-diego {
+  position: absolute;
+  left: 0;
+  width: 616px;
+}
+.phoenix {
+  top: calc(50% - 93.5px);
+  height: 117px;
+}
+.el-segundo {
+  top: 0;
+  height: 125px;
+}
+.cities-list {
+  position: absolute;
+  height: calc(100% - 231px);
+  width: 100%;
+  top: 231px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.irports-worldwide {
+  position: absolute;
+  top: 7px;
+  left: 11px;
+}
+.airports-worldwide,
+.cities-worldwide {
+  position: absolute;
+  top: calc(50% - 222px);
+  left: 251px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightseagreen);
+  box-sizing: border-box;
+  width: 226px;
+  height: 49px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-lightseagreen);
+}
+.cities-worldwide {
+  left: 10px;
+  width: 216px;
+}
+.explore-more-options {
+  position: absolute;
+  top: 56px;
+  left: 13px;
+}
+.popular-car-hire {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  font-size: var(--font-size-16xl);
+}
+.popular-car-hire-destinations {
+  position: absolute;
+  top: 3366px;
+  left: 14px;
+  width: 1890px;
+  height: 720px;
+}
+.which-pick-up-locations {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: 9px;
+}
+.dropdown-icon {
+  position: absolute;
+  top: calc(50% - 8.5px);
+  right: 30px;
+  width: 38px;
+  height: 18px;
+}
+.row-8 {
+  bottom: 0;
+}
+.row-2,
+.row-3,
+.row-4,
+.row-5,
+.row-6,
+.row-7,
+.row-8 {
+  position: absolute;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 863px;
+  height: 85px;
+}
+.row-7 {
+  bottom: 85px;
+}
+.row-2,
+.row-3,
+.row-4,
+.row-5,
+.row-6 {
+  top: calc(50% + 135.5px);
+}
+.row-2,
+.row-3,
+.row-4,
+.row-5 {
+  top: calc(50% + 50.5px);
+}
+.row-2,
+.row-3,
+.row-4 {
+  top: calc(50% - 34.5px);
+}
+.row-2,
+.row-3 {
+  top: calc(50% - 119.5px);
+}
+.row-2 {
+  top: calc(50% - 204.5px);
+}
+.how-much-does3 {
+  position: absolute;
+  top: calc(50% - 20.5px);
+  left: 9px;
+}
+.row-1 {
+  position: absolute;
+  top: 101px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 863px;
+  height: 85px;
+}
+.can-i-pick {
+  margin: 0;
+}
+.can-i-pick-container {
+  position: absolute;
+  bottom: 14px;
+  left: 10px;
+}
+.dropdown-icon8 {
+  position: absolute;
+  top: calc(50% - 14px);
+  right: 33px;
+  width: 38px;
+  height: 18px;
+}
+.r2-c1 {
+  position: absolute;
+  top: 101px;
+  right: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 863px;
+  height: 110px;
+}
+.why-should-i {
+  position: absolute;
+  top: calc(50% - 19.5px);
+  left: 10px;
+}
+.dropdown-icon9,
+.r2-c2 {
+  position: absolute;
+  top: calc(50% - 9.5px);
+  right: 33px;
+  width: 38px;
+  height: 18px;
+}
+.r2-c2 {
+  top: calc(50% - 179.5px);
+  right: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 863px;
+  height: 85px;
+}
+.what-do-i {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: 10px;
+}
+.dropdown-icon10,
+.r2-c3,
+.r2-c4 {
+  position: absolute;
+  top: calc(50% - 8.5px);
+  right: 33px;
+  width: 38px;
+  height: 18px;
+}
+.r2-c3,
+.r2-c4 {
+  top: calc(50% - 94.5px);
+  right: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 863px;
+  height: 85px;
+}
+.r2-c4 {
+  top: calc(50% - 9.5px);
+}
+.r2-c5 {
+  top: calc(50% + 75.5px);
+}
+.r2-c5,
+.r2-c6,
+.r2-c7 {
+  position: absolute;
+  right: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 863px;
+  height: 85px;
+}
+.r2-c6 {
+  top: calc(50% + 160.5px);
+}
+.r2-c7 {
+  bottom: 60px;
+}
+.frequently-asked-questions1 {
+  position: absolute;
+  top: 0;
+  left: 9px;
+  font-size: var(--font-size-16xl);
+}
+.frequently-asked-questions {
+  position: absolute;
+  top: 2435px;
+  left: 64px;
+  width: 1794px;
+  height: 781px;
+}
+.million-reviews-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 171px;
+  object-fit: cover;
+}
+.by-verified-customers,
+.million-reviews1 {
+  position: absolute;
+  top: 13.51%;
+  left: 45.56%;
+}
+.by-verified-customers {
+  top: 43.92%;
+  font-size: var(--font-size-7xl);
+}
+.million-reviews {
+  position: absolute;
+  top: calc(50% - 84px);
+  right: 121px;
+  width: 428px;
+  height: 148px;
+}
+.free-cancellation-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 184px;
+  object-fit: cover;
+}
+.free-cancellation1,
+.on-most-bookings-container {
+  position: absolute;
+  top: 8.13%;
+  left: 37.43%;
+}
+.on-most-bookings-container {
+  top: 44.72%;
+  font-size: var(--font-size-7xl);
+}
+.free-cancellation {
+  position: absolute;
+  top: calc(50% - 71px);
+  left: calc(50% - 251px);
+  width: 569px;
+  height: 123px;
+}
+.customer-service-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 138px;
+  height: 170px;
+  object-fit: cover;
+}
+.were-here-for {
+  position: absolute;
+  top: 34px;
+  left: 160px;
+}
+.providing-customer-support-container {
+  position: absolute;
+  top: 79px;
+  left: 160px;
+  font-size: var(--font-size-7xl);
+}
+.were-here-for-you1 {
+  position: absolute;
+  height: 50.9%;
+  width: 29.32%;
+  top: 21.56%;
+  right: 67.81%;
+  bottom: 27.54%;
+  left: 2.86%;
+}
+.were-here-for-you {
+  position: absolute;
+  top: 1926px;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 334px;
+  font-size: var(--font-size-12xl);
+}
+.genius-icon1 {
+  position: absolute;
+  height: calc(100% - 26px);
+  top: 8px;
+  right: 0;
+  bottom: 18px;
+  max-height: 100%;
+  width: 236px;
+  object-fit: cover;
+}
+.sign-in-to,
+.youre-eligible-for {
+  position: absolute;
+  top: calc(50% - 89.5px);
+  left: 63px;
+}
+.youre-eligible-for {
+  top: calc(50% - 44.5px);
+  font-size: var(--font-size-11xl);
+}
+.sign-in-now {
+  position: absolute;
+  top: 7px;
+  left: 20px;
+}
+.genius1,
+.sign-in2 {
+  position: absolute;
+  background-color: var(--color-white);
+  box-sizing: border-box;
+}
+.sign-in2 {
+  top: calc(50% + 31.5px);
+  left: 63px;
+  border-radius: var(--br-smi);
+  border: 1px solid var(--color-lightseagreen);
+  width: 170px;
+  height: 49px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-lightseagreen);
+}
+.genius1 {
+  top: 1573px;
+  left: 51px;
+  border-radius: var(--br-2xl);
+  border: 1px solid var(--color-dimgray);
+  width: 1818px;
+  height: 261px;
+  font-size: var(--font-size-16xl);
+}
+.great-deals-at {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.search-low-prices2 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 45px;
+}
+.car-hire-for {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 700;
+}
+.find-your-next-stay1 {
+  position: absolute;
+  width: calc(100% - 41px);
+  top: 0;
+  right: 41px;
+  left: 0;
+  height: 93px;
+  font-size: var(--font-size-61xl);
+}
+.body-1-content1 {
+  position: absolute;
+  top: calc(50% - 121px);
+  left: 123px;
+  width: 1242px;
+  height: 161px;
+}
+.body-11 {
+  position: absolute;
+  top: 94px;
+  left: 1px;
+  background: linear-gradient(103.63deg, #359d70, #75b86b);
+  border: 1px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 1919px;
+  height: 800px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-bookman-old-style);
+}
+.popular-car-hire1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-16xl);
+}
+.europcar-icon {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 100px;
+  object-fit: cover;
+}
+.europcar,
+.europcar1 {
+  position: absolute;
+  bottom: 0;
+}
+.europcar1 {
+  left: calc(50% - 54px);
+}
+.europcar {
+  left: 0;
+  width: 200px;
+  height: 159px;
+}
+.budget,
+.budget1 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 43px);
+}
+.budget {
+  left: calc(50% - 445.5px);
+  width: 200px;
+  height: 159px;
+}
+.keddy-by-europcar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.keddy-icon {
+  position: absolute;
+  width: calc(100% - 27px);
+  top: 0;
+  right: 13px;
+  left: 14px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 100px;
+  object-fit: cover;
+}
+.avis,
+.avis1,
+.keddy {
+  position: absolute;
+  bottom: 0;
+}
+.keddy {
+  left: calc(50% - 115.5px);
+  width: 227px;
+  height: 159px;
+}
+.avis,
+.avis1 {
+  left: calc(50% - 24px);
+}
+.avis {
+  left: calc(50% + 194.5px);
+  width: 200px;
+  height: 159px;
+}
+.yes-car-hire-icon {
+  position: absolute;
+  width: calc(100% - 28px);
+  top: 0;
+  right: 14px;
+  left: 14px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 100px;
+  object-fit: cover;
+}
+.yescar {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 228px;
+  height: 159px;
+}
+.popular-car-hire-brand {
+  position: absolute;
+  top: 1085px;
+  left: 73px;
+  width: 1531px;
+  height: 253px;
+}
+.driver-age-child {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: #65b27c;
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 39px;
+}
+.check-icon {
+  position: absolute;
+  top: calc(50% - 11.5px);
+  left: 8px;
+  width: 24px;
+  height: 18.9px;
+}
+.driver-aged-between {
+  position: absolute;
+  top: 3px;
+  left: 44px;
+}
+.driver-age,
+.drop-car,
+.drop-car-child {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.driver-age {
+  right: 0;
+  width: 343px;
+}
+.drop-car,
+.drop-car-child {
+  left: 0;
+}
+.drop-car-child {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 39px;
+}
+.drop-car {
+  width: 370px;
+}
+.car-drop-radio {
+  position: absolute;
+  bottom: 0;
+  left: 29px;
+  width: 728px;
+  height: 37px;
+}
+.time {
+  top: 0;
+  right: 9px;
+}
+.b,
+.time,
+.time-icon {
+  position: absolute;
+}
+.b {
+  right: -1px;
+  bottom: 0;
+  color: var(--color-black);
+}
+.time-icon {
+  top: calc(50% - 9.5px);
+  left: 0;
+  width: 29px;
+  height: 23.9px;
+  object-fit: cover;
+}
+.time2 {
+  position: absolute;
+  top: calc(50% - 39px);
+  left: calc(50% + 473.5px);
+  width: 104px;
+  height: 83px;
+}
+.sun-2-may {
+  position: absolute;
+  right: 11px;
+  bottom: 0;
+}
+.dro-off-date {
+  position: absolute;
+  top: 0;
+  right: -1px;
+  color: var(--color-dimgray);
+}
+.calendar-icon1 {
+  position: absolute;
+  height: 30.48%;
+  width: 14.17%;
+  top: 33.33%;
+  right: 85.83%;
+  bottom: 36.18%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.drop-off-date {
+  top: calc(50% - 39px);
+  left: calc(50% + 230.6px);
+  width: 184.9px;
+  height: 83px;
+  color: var(--color-black);
+}
+.drop-off-date,
+.time1,
+.time3 {
+  position: absolute;
+}
+.time3 {
+  top: 0;
+  right: 8px;
+}
+.time1 {
+  top: calc(50% - 39px);
+  left: calc(50% + 67.5px);
+  width: 104px;
+  height: 83px;
+}
+.calendar-icon2 {
+  position: absolute;
+  height: 30.48%;
+  width: 13.58%;
+  top: 33.33%;
+  right: 86.42%;
+  bottom: 36.18%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.pick-up-date1 {
+  position: absolute;
+  top: 0;
+  right: -1px;
+}
+.thu-2-may {
+  position: absolute;
+  right: 11px;
+  bottom: 0;
+  color: var(--color-black);
+}
+.pick-up-date {
+  position: absolute;
+  top: calc(50% - 39px);
+  left: calc(50% - 192.4px);
+  width: 192.9px;
+  height: 83px;
+}
+.search-duoline-icon {
+  position: absolute;
+  bottom: 5px;
+  left: 0;
+  width: 28px;
+  height: 26px;
+}
+.pick-up-location {
+  position: absolute;
+  top: calc(50% - 19px);
+  left: 23px;
+  width: 239px;
+  height: 38px;
+}
+.divider-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 211px);
+  max-height: 100%;
+  width: 689px;
+}
+.search21 {
+  position: absolute;
+  height: calc(100% - 3px);
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 3px;
+  left: 0;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-white);
+  border: 10px solid var(--color-burlywood-100);
+  box-sizing: border-box;
+}
+.search4 {
+  position: absolute;
+  top: calc(50% - 22.98px);
+  left: calc(50% - 75px);
+  font-weight: 700;
+}
+.body-search2,
+.search-btn1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.search-btn1 {
+  height: 100%;
+  bottom: 0;
+  border-radius: var(--br-12xl);
+  background: linear-gradient(
+    98.03deg,
+    #081303,
+    #46a498 74.46%,
+    #4bb1a5 87.44%,
+    #66f0e6
+  );
+  border: 10px solid var(--color-burlywood-100);
+  box-sizing: border-box;
+  width: 230px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-bookman-old-style);
+}
+.body-search2 {
+  height: calc(100% - 57px);
+  width: 100%;
+  bottom: 57px;
+  left: 0;
+  font-size: var(--font-size-12xl);
+  color: var(--color-dimgray);
+}
+.body-search1 {
+  position: absolute;
+  top: 845px;
+  left: 107px;
+  width: 1721px;
+  height: 188px;
+  font-size: var(--font-size-6xl);
+}
+.ngn14 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 64px);
+}
+.image-2-icon {
+  left: calc(50% + 28px);
+  border-radius: var(--br-smi);
+  width: 43px;
+  object-fit: cover;
+}
+.image-2-icon,
+.question-circle-o-icon1,
+.user-circle-icon1 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  max-height: 100%;
+}
+.user-circle-icon1 {
+  right: -0.02px;
+  width: 46.2px;
+}
+.question-circle-o-icon1 {
+  left: 0;
+  width: 43.7px;
+}
+.side-nav1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 284px;
+  height: 42px;
+}
+.header3 {
+  position: absolute;
+  bottom: 1px;
+  left: 145px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1384px;
+  height: 74px;
+}
+.tab1-icon1 {
+  position: absolute;
+  height: calc(100% + 1px);
+  width: calc(100% + 1.6px);
+  top: -0.5px;
+  right: -1.1px;
+  bottom: -0.5px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.stays3 {
+  position: absolute;
+  top: 9px;
+  left: calc(50% - 38.24px);
+}
+.bed-icon1 {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: 14.19px;
+  width: 47.7px;
+  height: 36px;
+}
+.stays2 {
+  position: absolute;
+  height: calc(100% - 1px);
+  top: 0;
+  bottom: 1px;
+  left: 0;
+  width: 222.2px;
+  cursor: pointer;
+}
+.tab2-icon1 {
+  position: absolute;
+  height: calc(100% + 1px);
+  width: calc(100% + 2.2px);
+  top: -0.5px;
+  right: -1.7px;
+  bottom: -0.5px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.flights3 {
+  position: absolute;
+  top: 10px;
+  left: calc(50% - 28.15px);
+}
+.plane-icon1 {
+  position: absolute;
+  top: calc(50% - 18.3px);
+  left: calc(50% - 106.15px);
+  width: 66px;
+  height: 41.1px;
+}
+.flights2 {
+  position: absolute;
+  height: calc(100% - 1.4px);
+  top: 0;
+  bottom: 1.4px;
+  left: 163.86px;
+  width: 304.3px;
+  cursor: pointer;
+}
+.tab3-icon1 {
+  position: absolute;
+  height: calc(100% + 1px);
+  width: calc(100% + 2.4px);
+  top: -0.5px;
+  right: -1.9px;
+  bottom: -0.5px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.car-rentals4 {
+  position: absolute;
+  top: 10px;
+  right: 55.5px;
+}
+.car-sport-sharp-icon1 {
+  position: absolute;
+  top: calc(50% - 19.55px);
+  left: calc(50% - 130.44px);
+  width: 63.7px;
+  height: 41.6px;
+}
+.car-rentals3 {
+  position: absolute;
+  height: calc(100% - 3.5px);
+  top: 0;
+  bottom: 3.5px;
+  left: calc(50% - 292.09px);
+  width: 401.5px;
+}
+.tab4-icon1 {
+  position: absolute;
+  height: calc(100% + 1px);
+  width: calc(100% + 2.3px);
+  top: -0.5px;
+  right: -1.8px;
+  bottom: -0.5px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.attractions3 {
+  position: absolute;
+  top: 8px;
+  right: 51.35px;
+}
+.image-3-icon1 {
+  position: absolute;
+  height: calc(100% - 22.5px);
+  top: 11px;
+  bottom: 11.5px;
+  left: calc(50% - 123.6px);
+  max-height: 100%;
+  width: 48px;
+  object-fit: cover;
+}
+.attractions2 {
+  position: absolute;
+  height: calc(100% - 3.5px);
+  top: 0;
+  bottom: 3.5px;
+  left: calc(50% + 40.76px);
+  width: 369.5px;
+  cursor: pointer;
+}
+.airport-taxis3 {
+  position: absolute;
+  top: calc(50% - 24.5px);
+  right: 8px;
+}
+.taxi-icon1 {
+  position: absolute;
+  top: calc(50% - 18.24px);
+  left: calc(50% - 108px);
+  width: 53.5px;
+  height: 33px;
+  object-fit: cover;
+}
+.airport-taxis2 {
+  height: 100%;
+  top: 0;
+  right: 0.04px;
+  width: 344px;
+  cursor: pointer;
+  font-size: var(--font-size-21xl);
+}
+.airport-taxis2,
+.nav-bar1,
+.nav-content1 {
+  position: absolute;
+  bottom: 0;
+}
+.nav-content1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.nav-bar1 {
+  left: 146.14px;
+  width: 1379.9px;
+  height: 75px;
+  font-size: var(--font-size-26xl);
+  color: var(--color-teal);
+}
+.header2 {
+  position: absolute;
+  top: 26px;
+  left: 38px;
+  width: 1845px;
+  height: 106px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+}
+.car-rentals2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 6312px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-calibri);
+}

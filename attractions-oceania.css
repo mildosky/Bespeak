@@ -1,0 +1,1225 @@
+.attractions-oceania-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-teal);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 94px;
+}
+.bespeakcom-is-part8,
+.copyright-2024-20248 {
+  position: absolute;
+  bottom: 182px;
+  left: 364px;
+  font-weight: 300;
+}
+.copyright-2024-20248 {
+  bottom: 293px;
+  left: 73px;
+}
+.discover4,
+.support8 {
+  position: absolute;
+  top: 0;
+}
+.support8 {
+  left: 0;
+}
+.discover4 {
+  left: calc(50% - 491.5px);
+}
+.terms-and-settings4 {
+  left: calc(50% - 45.5px);
+}
+.about5,
+.partners5,
+.terms-and-settings4 {
+  position: absolute;
+  top: 0;
+}
+.partners5 {
+  left: calc(50% + 333.5px);
+}
+.about5 {
+  right: 142px;
+}
+.coronavirus-covid-194 {
+  position: absolute;
+  top: 67px;
+  left: 0;
+}
+.genius-loyalty-programme4 {
+  position: absolute;
+  top: 67px;
+  left: calc(50% - 491.5px);
+}
+.extranet-login7,
+.privacy-cookies4 {
+  position: absolute;
+  top: 67px;
+  left: calc(50% - 45.5px);
+}
+.extranet-login7 {
+  left: calc(50% + 333.5px);
+}
+.about-bespeak7 {
+  position: absolute;
+  top: 67px;
+  right: 36px;
+}
+.faqs4,
+.seasonal-and-holiday7 {
+  position: absolute;
+  top: calc(50% - 119px);
+}
+.faqs4 {
+  left: 0;
+}
+.seasonal-and-holiday7 {
+  left: calc(50% - 491.5px);
+}
+.terms-and-conditions4 {
+  left: calc(50% - 45.5px);
+}
+.how-we-work8,
+.partner-help7,
+.terms-and-conditions4 {
+  position: absolute;
+  top: calc(50% - 119px);
+}
+.partner-help7 {
+  left: calc(50% + 333.5px);
+}
+.how-we-work8 {
+  right: 52px;
+}
+.manage-your-trips4 {
+  position: absolute;
+  top: calc(50% - 52px);
+  left: 0;
+}
+.travel-articles4 {
+  position: absolute;
+  top: calc(50% - 52px);
+  left: calc(50% - 491.5px);
+}
+.list-your-property28,
+.partner-dispute7 {
+  position: absolute;
+  top: calc(50% - 52px);
+  left: calc(50% - 45.5px);
+}
+.list-your-property28 {
+  left: calc(50% + 333.5px);
+}
+.sustainability7 {
+  position: absolute;
+  top: calc(50% - 52px);
+  right: 57px;
+}
+.attractions-help-centre4 {
+  position: absolute;
+  top: calc(50% + 15px);
+  left: 0;
+}
+.bespeak-for-business4 {
+  left: calc(50% - 491.5px);
+}
+.become-affiliate4,
+.bespeak-for-business4,
+.press-center7 {
+  position: absolute;
+  top: calc(50% + 15px);
+}
+.become-affiliate4 {
+  left: calc(50% + 333.5px);
+}
+.press-center7 {
+  right: 70px;
+}
+.safety-resource-center7 {
+  position: absolute;
+  top: calc(50% + 82px);
+  left: 0;
+}
+.msa-statement7 {
+  position: absolute;
+  top: calc(50% + 15px);
+  left: calc(50% - 45.5px);
+}
+.careers7 {
+  position: absolute;
+  top: calc(50% + 82px);
+  right: 127px;
+}
+.investor-relations7 {
+  position: absolute;
+  right: 8px;
+  bottom: 67px;
+}
+.corporate-contact7 {
+  position: absolute;
+  right: -1px;
+  bottom: 0;
+}
+.countries10 {
+  position: absolute;
+  bottom: 540px;
+  left: 73px;
+  width: 1739px;
+  height: 506px;
+}
+.mobile-version8,
+.your-account8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-decoration: underline;
+}
+.your-account8 {
+  left: 236px;
+}
+.customer-service-help11,
+.make-changes-to8 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 359.5px);
+  text-decoration: underline;
+}
+.customer-service-help11 {
+  left: calc(50% + 156.5px);
+}
+.bespeakcom-for-business8 {
+  position: absolute;
+  top: 0;
+  right: -1px;
+  text-decoration: underline;
+}
+.links8 {
+  position: absolute;
+  width: calc(100% - 307.5px);
+  right: 216.5px;
+  bottom: 18px;
+  left: 91px;
+  height: 37px;
+}
+.list-your-property-child5 {
+  position: absolute;
+  width: calc(100% + 1.5px);
+  top: calc(50% + 6px);
+  right: 0;
+  left: -1.5px;
+  border-top: 2px solid var(--color-white);
+  box-sizing: border-box;
+  height: 4px;
+}
+.list-your-property31 {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: 25px;
+}
+.list-your-property30 {
+  position: absolute;
+  top: 16px;
+  left: calc(50% - 133.25px);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-darkcyan);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 266px;
+  height: 59px;
+}
+.list-your-property29 {
+  position: absolute;
+  bottom: 1086px;
+  left: 0;
+  background-color: var(--color-darkturquoise);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1920.5px;
+  height: 167px;
+  color: var(--color-white);
+}
+.privacy-statement8 {
+  text-decoration: underline;
+  color: var(--color-blue);
+}
+.you-can-opt-container8 {
+  position: absolute;
+  bottom: 6px;
+  left: calc(50% - 316px);
+  font-weight: 300;
+}
+.your-email-address8 {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: 18px;
+}
+.email8 {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 218px);
+  top: 0;
+  right: 218px;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+}
+.subscribe8 {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: calc(50% - 59px);
+}
+.subscribe-btn8 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-cadetblue);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 210px;
+  color: var(--color-white);
+}
+.email-subscribe8 {
+  position: absolute;
+  top: calc(50% + 41.5px);
+  left: calc(50% - 397px);
+  width: 731px;
+  height: 59px;
+  color: var(--color-dimgray);
+}
+.sign-up-to8 {
+  margin: 0;
+}
+.sign-up-to-container8 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-weight: 300;
+}
+.stay-in-the8 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 122px);
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+  text-align: left;
+}
+.stay-in-the-know17 {
+  position: absolute;
+  width: calc(100% - 356px);
+  top: 27px;
+  right: 178px;
+  left: 178px;
+  height: 149px;
+  text-align: center;
+  color: var(--color-gainsboro);
+}
+.ca4,
+.empty4,
+.stay-in-the-know16 {
+  position: absolute;
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+}
+.stay-in-the-know16 {
+  top: 5571px;
+  left: 0;
+  background-color: var(--color-darkcyan);
+  width: 1920px;
+  height: 303px;
+  color: var(--color-white);
+}
+.ca4,
+.empty4 {
+  background-color: var(--color-dimgray);
+  height: 2px;
+}
+.empty4 {
+  top: 213px;
+  right: 5px;
+  width: 308px;
+}
+.ca4 {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.central-america9 {
+  position: absolute;
+  top: 0;
+  left: 6px;
+}
+.central-america8 {
+  position: absolute;
+  top: 169px;
+  left: calc(50% + 409.5px);
+  width: 207px;
+  height: 46px;
+  cursor: pointer;
+}
+.caribbean14 {
+  position: absolute;
+  top: 0;
+  left: 18px;
+}
+.caribbean12,
+.south-america8 {
+  position: absolute;
+  top: 169px;
+  left: calc(50% + 250.5px);
+  width: 159px;
+  height: 46px;
+  cursor: pointer;
+}
+.south-america8 {
+  left: calc(50% + 60.5px);
+  width: 190px;
+}
+.middle-east9 {
+  position: absolute;
+  top: 0;
+  left: 8px;
+}
+.middle-east8 {
+  position: absolute;
+  top: 169px;
+  left: calc(50% - 98.5px);
+  width: 159px;
+  height: 46px;
+  cursor: pointer;
+}
+.oceania9 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-teal);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  height: 4px;
+}
+.oceania8,
+.ocenia4 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 38.5px);
+}
+.oceania8 {
+  top: 167px;
+  left: calc(50% - 257.5px);
+  width: 159px;
+  height: 48px;
+}
+.africa12,
+.africa14 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 35.5px);
+}
+.africa12 {
+  top: 169px;
+  left: calc(50% - 416.5px);
+  width: 159px;
+  height: 46px;
+  cursor: pointer;
+}
+.asia12,
+.asia14 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 24.5px);
+}
+.asia12 {
+  top: 169px;
+  left: calc(50% - 575.5px);
+  width: 159px;
+  height: 46px;
+  cursor: pointer;
+}
+.north-america7,
+.north-america8 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+}
+.north-america7 {
+  top: 169px;
+  left: 159px;
+  width: 195px;
+  height: 46px;
+  cursor: pointer;
+}
+.europe14 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 48.5px);
+}
+.europe12 {
+  position: absolute;
+  top: 171px;
+  left: 0;
+  width: 159px;
+  height: 44px;
+  cursor: pointer;
+}
+.find-things-to4 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.explore-more-destinations9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-16xl);
+}
+.explore-more-destinations8,
+.gold-coast-icon {
+  position: absolute;
+  top: 0;
+  left: 31px;
+  width: 522px;
+  height: 119px;
+}
+.gold-coast-icon {
+  height: 100%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  max-height: 100%;
+  width: 440px;
+  object-fit: cover;
+}
+.cairns-icon {
+  left: calc(50% - 456.5px);
+}
+.cairns-icon,
+.melbourne-icon,
+.sydney-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  border-radius: var(--br-base);
+  max-height: 100%;
+  width: 440px;
+  object-fit: cover;
+}
+.sydney-icon {
+  left: calc(50% + 16.5px);
+}
+.melbourne-icon {
+  right: 0;
+}
+.row-116,
+.row-214,
+.row-314,
+.row-414,
+.row-514 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  height: 240px;
+}
+.row-116 {
+  top: 240px;
+}
+.row-214,
+.row-314,
+.row-414,
+.row-514 {
+  top: calc(50% - 650px);
+}
+.row-314,
+.row-414,
+.row-514 {
+  top: calc(50% - 390px);
+}
+.row-414,
+.row-514 {
+  top: calc(50% - 130px);
+}
+.row-514 {
+  top: calc(50% + 130px);
+}
+.row-613 {
+  width: 100%;
+  top: calc(50% + 390px);
+  right: 0;
+}
+.row-613,
+.row-75,
+.row-85 {
+  position: absolute;
+  left: 0;
+  height: 240px;
+}
+.row-75 {
+  width: 100%;
+  right: 0;
+  bottom: 260px;
+}
+.row-85 {
+  bottom: 0;
+  border-radius: var(--br-base);
+  width: 440px;
+  background-image: url(./public/row-8@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.explore-more-destinantions4 {
+  position: absolute;
+  top: 2997px;
+  left: 42px;
+  width: 1859px;
+  height: 2300px;
+}
+.bespeaks-global-customer-container4,
+.support-when-you4 {
+  position: absolute;
+  top: 49px;
+  left: 86px;
+}
+.support-when-you4 {
+  top: 4px;
+  font-size: var(--font-size-12xl);
+}
+.cs-icon4,
+.support9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 72px;
+  height: 72px;
+}
+.support9 {
+  height: 33.83%;
+  width: 27.71%;
+  top: 37.13%;
+  right: 4.79%;
+  bottom: 29.04%;
+  left: 67.5%;
+}
+.book-tickets-online-container4,
+.fast-and-flexible4 {
+  position: absolute;
+  top: 45px;
+  left: 83px;
+}
+.fast-and-flexible4 {
+  top: 0;
+  font-size: var(--font-size-12xl);
+}
+.calendar-icon13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 69px;
+  height: 64.1px;
+  object-fit: cover;
+}
+.fast4 {
+  position: absolute;
+  height: 32.63%;
+  width: 26.41%;
+  top: 38.32%;
+  right: 36.77%;
+  bottom: 29.04%;
+  left: 36.82%;
+}
+.experience-the-best-container4,
+.explore-top-attractions4 {
+  position: absolute;
+  top: 49px;
+  left: 84px;
+}
+.explore-top-attractions4 {
+  top: 4px;
+  font-size: var(--font-size-12xl);
+}
+.image-4-icon8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 70px;
+  height: 71px;
+  object-fit: cover;
+}
+.explore4 {
+  position: absolute;
+  height: 33.83%;
+  width: 29.06%;
+  top: 37.13%;
+  right: 67.6%;
+  bottom: 29.04%;
+  left: 3.33%;
+}
+.weve-got-you4 {
+  position: absolute;
+  top: 37px;
+  left: 73px;
+  font-size: var(--font-size-19xl);
+}
+.weve-got-you-covered4 {
+  position: absolute;
+  top: 2393px;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 334px;
+  font-size: var(--font-size-7xl);
+}
+.sign-in-to5,
+.your-bespeak-account4 {
+  position: absolute;
+  top: calc(50% - 89.5px);
+  left: 63px;
+}
+.your-bespeak-account4 {
+  top: calc(50% - 44.5px);
+  font-size: var(--font-size-11xl);
+}
+.sign-in-now5 {
+  position: absolute;
+  top: 7px;
+  left: 20px;
+}
+.sign-in11,
+.sign-in12 {
+  position: absolute;
+  background-color: var(--color-white);
+  box-sizing: border-box;
+}
+.sign-in12 {
+  top: calc(50% + 31.5px);
+  left: 63px;
+  border-radius: var(--br-smi);
+  border: 1px solid var(--color-lightseagreen);
+  width: 170px;
+  height: 49px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-lightseagreen);
+}
+.sign-in11 {
+  top: 2040px;
+  left: 51px;
+  border-radius: var(--br-2xl);
+  border: 1px solid var(--color-dimgray);
+  width: 1818px;
+  height: 261px;
+  font-size: var(--font-size-16xl);
+}
+.search-low-prices7 {
+  position: absolute;
+  width: calc(100% - 20px);
+  right: 20px;
+  bottom: 0;
+  left: 0;
+  height: 92px;
+}
+.attractions-activities-and-ex-container4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 700;
+}
+.find-your-next-stay6 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 186px;
+  font-size: var(--font-size-61xl);
+}
+.body-1-content7 {
+  position: absolute;
+  top: calc(50% - 121px);
+  left: 123px;
+  width: 1119px;
+  height: 309px;
+}
+.body-17 {
+  position: absolute;
+  top: 94px;
+  left: 1px;
+  background: linear-gradient(103.63deg, #359d70, #75b86b);
+  border: 1px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 1919px;
+  height: 800px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-bookman-old-style);
+}
+.paris-2384-things-to-container4 {
+  position: absolute;
+  bottom: 24px;
+  left: 32px;
+}
+.paris8 {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 581px;
+  height: 276px;
+  background-image: url(./public/paris1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.las-vegas-688-things-container4 {
+  position: absolute;
+  bottom: 24px;
+  left: 43px;
+}
+.las-vegas8 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 290.5px);
+  width: 581px;
+  height: 276px;
+  background-image: url(./public/las-vegas@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.new-york-1343-things-container4,
+.new-york8 {
+  position: absolute;
+  bottom: 24px;
+  left: 41px;
+}
+.new-york8 {
+  bottom: 0;
+  left: 0;
+  width: 581px;
+  height: 276px;
+  background-image: url(./public/new-york@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.instanbul-950-things-to-container4 {
+  position: absolute;
+  bottom: 15px;
+  left: 40px;
+}
+.instanbul8 {
+  position: absolute;
+  top: 71px;
+  right: 0;
+  width: 581px;
+  height: 276px;
+  background-image: url(./public/instanbul1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.london-1966-things-to-container4 {
+  position: absolute;
+  bottom: 15px;
+  left: 45px;
+}
+.london8 {
+  position: absolute;
+  top: 71px;
+  left: calc(50% - 290.5px);
+  width: 581px;
+  height: 276px;
+  background-image: url(./public/london1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.dubai-3385-things-to-container4 {
+  position: absolute;
+  bottom: 15px;
+  left: 32px;
+}
+.dubai8 {
+  position: absolute;
+  top: 71px;
+  left: 0;
+  width: 581px;
+  height: 276px;
+  background-image: url(./public/dubai@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.top-destinations9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+}
+.top-destinations8 {
+  position: absolute;
+  top: 1034px;
+  left: 73px;
+  width: 1797px;
+  height: 662px;
+  color: var(--color-white);
+}
+.search11 {
+  position: absolute;
+  top: calc(50% - 22.98px);
+  left: calc(50% - 75px);
+  font-weight: 700;
+}
+.search-btn6 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-12xl);
+  background: linear-gradient(
+    98.03deg,
+    #081303,
+    #46a498 74.46%,
+    #4bb1a5 87.44%,
+    #66f0e6
+  );
+  border: 10px solid var(--color-burlywood-100);
+  box-sizing: border-box;
+  width: 230px;
+  color: var(--color-white);
+  font-family: var(--font-bookman-old-style);
+}
+.select-your-dates9 {
+  position: absolute;
+  top: 0;
+  right: -1px;
+}
+.calendar-icon14 {
+  position: absolute;
+  height: calc(100% - 5.7px);
+  top: 2px;
+  bottom: 3.7px;
+  left: 0;
+  max-height: 100%;
+  width: 29.7px;
+  object-fit: cover;
+}
+.select-your-dates8 {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: calc(50% + 28.5px);
+  width: 249px;
+  height: 37px;
+  font-size: var(--font-size-11xl);
+}
+.body-search-child2 {
+  position: absolute;
+  height: calc(100% - 19px);
+  top: 9.1px;
+  bottom: 9.9px;
+  left: calc(50% - 1px);
+  border-right: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 2px;
+}
+.where-are-you5,
+.x6 {
+  position: absolute;
+  right: -1px;
+}
+.x6 {
+  top: 5px;
+}
+.where-are-you5 {
+  bottom: 3px;
+}
+.image-4-icon9 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 48px;
+  object-fit: cover;
+}
+.where-are-you-going4 {
+  position: absolute;
+  height: calc(100% - 2px);
+  top: 0;
+  bottom: 2px;
+  left: 0;
+  width: 336px;
+  font-size: var(--font-size-11xl);
+}
+.search-left4 {
+  position: absolute;
+  top: calc(50% - 27.5px);
+  left: 29px;
+  width: 818px;
+  height: 51px;
+  font-size: var(--font-size-19xl);
+}
+.body-search7 {
+  position: absolute;
+  top: 845px;
+  left: 107px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  border: 10px solid var(--color-burlywood-200);
+  box-sizing: border-box;
+  width: 1721px;
+  height: 131px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-dimgray);
+}
+.ngn21 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 64px);
+}
+.image-2-icon7 {
+  left: calc(50% + 28px);
+  border-radius: var(--br-smi);
+  width: 43px;
+  object-fit: cover;
+}
+.image-2-icon7,
+.question-circle-o-icon8,
+.user-circle-icon8 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  max-height: 100%;
+}
+.user-circle-icon8 {
+  right: -0.02px;
+  width: 46.2px;
+}
+.question-circle-o-icon8 {
+  left: 0;
+  width: 43.7px;
+}
+.side-nav8 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 284px;
+  height: 42px;
+}
+.header17 {
+  position: absolute;
+  bottom: 1px;
+  left: 145px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1384px;
+  height: 74px;
+}
+.tab1-icon8 {
+  position: absolute;
+  height: calc(100% + 1px);
+  width: calc(100% + 1.6px);
+  top: -0.5px;
+  right: -1.1px;
+  bottom: -0.5px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.stays17 {
+  position: absolute;
+  top: 9px;
+  left: calc(50% - 38.24px);
+}
+.bed-icon8 {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: 14.19px;
+  width: 47.7px;
+  height: 36px;
+}
+.stays16 {
+  position: absolute;
+  height: calc(100% - 1px);
+  top: 0;
+  bottom: 1px;
+  left: 0;
+  width: 222.2px;
+}
+.tab2-icon8 {
+  position: absolute;
+  height: calc(100% + 1px);
+  width: calc(100% + 2.2px);
+  top: -0.5px;
+  right: -1.7px;
+  bottom: -0.5px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.flights18 {
+  position: absolute;
+  top: 10px;
+  left: calc(50% - 28.15px);
+}
+.plane-icon9 {
+  position: absolute;
+  top: calc(50% - 18.3px);
+  left: calc(50% - 106.15px);
+  width: 66px;
+  height: 41.1px;
+}
+.flights17 {
+  position: absolute;
+  height: calc(100% - 1.4px);
+  top: 0;
+  bottom: 1.4px;
+  left: 163.86px;
+  width: 304.3px;
+}
+.tab3-icon8 {
+  position: absolute;
+  height: calc(100% + 1px);
+  width: calc(100% + 2.4px);
+  top: -0.5px;
+  right: -1.9px;
+  bottom: -0.5px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.car-rentals18 {
+  position: absolute;
+  top: 10px;
+  right: 55.5px;
+}
+.car-sport-sharp-icon8 {
+  position: absolute;
+  top: calc(50% - 19.55px);
+  left: calc(50% - 130.44px);
+  width: 63.7px;
+  height: 41.6px;
+}
+.car-rentals17 {
+  position: absolute;
+  height: calc(100% - 3.5px);
+  top: 0;
+  bottom: 3.5px;
+  left: calc(50% - 292.09px);
+  width: 401.5px;
+}
+.tab4-icon8 {
+  position: absolute;
+  height: calc(100% + 1px);
+  width: calc(100% + 2.3px);
+  top: -0.5px;
+  right: -1.8px;
+  bottom: -0.5px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.attractions18 {
+  position: absolute;
+  top: 8px;
+  right: 51.35px;
+}
+.image-3-icon8 {
+  position: absolute;
+  height: calc(100% - 22.5px);
+  top: 11px;
+  bottom: 11.5px;
+  left: calc(50% - 123.6px);
+  max-height: 100%;
+  width: 48px;
+  object-fit: cover;
+}
+.attractions17 {
+  position: absolute;
+  height: calc(100% - 3.5px);
+  top: 0;
+  bottom: 3.5px;
+  left: calc(50% + 40.76px);
+  width: 369.5px;
+}
+.airport-taxis18 {
+  position: absolute;
+  top: calc(50% - 24.5px);
+  right: 8px;
+}
+.taxi-icon8 {
+  position: absolute;
+  top: calc(50% - 18.24px);
+  left: calc(50% - 108px);
+  width: 53.5px;
+  height: 33px;
+  object-fit: cover;
+}
+.airport-taxis17 {
+  height: 100%;
+  top: 0;
+  right: 0.04px;
+  width: 344px;
+  font-size: var(--font-size-21xl);
+}
+.airport-taxis17,
+.nav-bar8,
+.nav-content8 {
+  position: absolute;
+  bottom: 0;
+}
+.nav-content8 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.nav-bar8 {
+  left: 146.14px;
+  width: 1379.9px;
+  height: 75px;
+  font-size: var(--font-size-26xl);
+  color: var(--color-teal);
+}
+.header16 {
+  position: absolute;
+  top: 26px;
+  left: 38px;
+  width: 1845px;
+  height: 106px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+}
+.attractions-oceania {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 7127px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-calibri);
+}

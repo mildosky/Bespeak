@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  inset: 0;
+}
+
+:root {
+  /* fonts */
+  --font-calibri: Calibri;
+  --font-bookman-old-style: "Bookman Old Style";
+  --font-arial: Arial;
+  --font-book-antiqua: "Book Antiqua";
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --font-size-21xl: 40px;
+  --font-size-12xl: 31px;
+  --font-size-26xl: 45px;
+  --font-size-16xl: 35px;
+  --font-size-61xl: 80px;
+  --font-size-6xl: 25px;
+  --font-size-xl: 20px;
+  --font-size-9xl: 28px;
+  --font-size-base-5: 16.5px;
+  --font-size-8xl: 27px;
+  --font-size-mini-9: 14.9px;
+  --font-size-13xl: 32px;
+  --font-size-7xl: 26px;
+  --font-size-19xl: 38px;
+  --font-size-2xl: 21px;
+  --font-size-41xl: 60px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-dimgray: #707070;
+  --color-burlywood-100: #f9c590;
+  --color-burlywood-200: #f4c18d;
+  --color-teal: #008081;
+  --color-black: #000;
+  --color-lightseagreen: #48aeaf;
+  --color-lavender: #d0e1f1;
+  --color-darkcyan: #329394;
+  --color-gainsboro: #e6e5e5;
+  --color-cadetblue: #6cb6b8;
+  --color-blue: #1120f5;
+  --color-darkturquoise: #37d6d8;
+  --color-gray-100: #161515;
+  --color-gray: rgba(0, 0, 0, 0);
+  --color-whitesmoke: #f5f5f5;
+  --color-dodgerblue: #1a71d5;
+
+  /* Border radiuses */
+  --br-12xl: 31px;
+  --br-smi: 13px;
+  --br-xl: 20px;
+  --br-4xs: 9px;
+  --br-3xs: 10px;
+  --br-28xl: 47px;
+  --br-20xl: 39px;
+  --br-base: 16px;
+  --br-2xl: 21px;
+  --br-lg: 18px;
+  --br-10xs: 3px;
+  --br-5xs: 8px;
+  --br-39xl: 58px;
+  --br-xs: 12px;
+}

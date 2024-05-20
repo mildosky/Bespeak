@@ -1,0 +1,1225 @@
+.airport-taxis-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-teal);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 94px;
+}
+.bespeakcom-is-part4,
+.copyright-2024-20244 {
+  position: absolute;
+  bottom: 127px;
+  left: 364px;
+  font-size: var(--font-size-11xl);
+  font-weight: 300;
+}
+.copyright-2024-20244 {
+  bottom: 239px;
+  left: 73px;
+}
+.extranet-login3 {
+  position: absolute;
+  bottom: 347px;
+  left: 870px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-lightseagreen);
+}
+.countries6,
+.homes2 {
+  position: absolute;
+  top: 0;
+}
+.countries6 {
+  left: 0;
+}
+.homes2 {
+  left: calc(50% - 573.5px);
+}
+.car-hire2,
+.unique-places-to2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 325.5px);
+}
+.car-hire2 {
+  left: calc(50% + 50.5px);
+}
+.coronavirus-covid-19-faqs2 {
+  position: absolute;
+  top: 0;
+  right: 44px;
+}
+.apartments3,
+.regions4 {
+  position: absolute;
+  top: 67px;
+}
+.regions4 {
+  left: 0;
+}
+.apartments3 {
+  left: calc(50% - 573.5px);
+}
+.all-destinations2,
+.flight-finder2 {
+  position: absolute;
+  top: 67px;
+  left: calc(50% - 325.5px);
+}
+.flight-finder2 {
+  left: calc(50% + 50.5px);
+}
+.about-bespeak3 {
+  position: absolute;
+  top: 67px;
+  right: 217px;
+}
+.cities4,
+.resorts3 {
+  position: absolute;
+  top: 134px;
+}
+.cities4 {
+  left: 0;
+}
+.resorts3 {
+  left: calc(50% - 573.5px);
+}
+.all-flight-destinations2,
+.restaurant-reservations2 {
+  position: absolute;
+  top: 134px;
+  left: calc(50% - 325.5px);
+}
+.restaurant-reservations2 {
+  left: calc(50% + 50.5px);
+}
+.customer-service-help6 {
+  position: absolute;
+  top: 134px;
+  right: 128px;
+}
+.districts2,
+.villas3 {
+  position: absolute;
+  top: calc(50% - 320px);
+}
+.districts2 {
+  left: 0;
+}
+.villas3 {
+  left: calc(50% - 573.5px);
+}
+.all-car-hire2 {
+  left: calc(50% - 325.5px);
+}
+.all-car-hire2,
+.bespeak-for-travel2,
+.partner-help3 {
+  position: absolute;
+  top: calc(50% - 320px);
+}
+.bespeak-for-travel2 {
+  left: calc(50% + 50.5px);
+}
+.partner-help3 {
+  right: 249px;
+}
+.airports2 {
+  position: absolute;
+  top: calc(50% - 253px);
+  left: 0;
+}
+.all-holiday-destinations2,
+.careers3,
+.hostels3 {
+  position: absolute;
+  top: calc(50% - 253px);
+  left: calc(50% - 573.5px);
+}
+.all-holiday-destinations2,
+.careers3 {
+  left: calc(50% - 325.5px);
+}
+.careers3 {
+  left: calc(50% + 469.5px);
+}
+.hotels3 {
+  position: absolute;
+  top: calc(50% - 186px);
+  left: 0;
+}
+.bbs3 {
+  left: calc(50% - 573.5px);
+}
+.bbs3,
+.reviews3,
+.sustainability3 {
+  position: absolute;
+  top: calc(50% - 186px);
+}
+.reviews3 {
+  left: calc(50% - 325.5px);
+}
+.sustainability3 {
+  right: 238px;
+}
+.places-of-interest4 {
+  position: absolute;
+  top: calc(50% - 119px);
+  left: 0;
+}
+.discover-monthly-stays2,
+.guests-houses2 {
+  position: absolute;
+  top: calc(50% - 119px);
+  left: calc(50% - 573.5px);
+}
+.discover-monthly-stays2 {
+  left: calc(50% - 325.5px);
+}
+.press-center3 {
+  position: absolute;
+  top: calc(50% - 119px);
+  right: 251px;
+}
+.unpacked-travel-articles2 {
+  position: absolute;
+  top: calc(50% - 52px);
+  left: calc(50% - 325.5px);
+}
+.safety-resource-center3 {
+  position: absolute;
+  top: calc(50% - 52px);
+  right: 128px;
+}
+.seasonal-and-holiday3 {
+  position: absolute;
+  top: calc(50% + 15px);
+  left: calc(50% - 325.5px);
+}
+.investor-relations3 {
+  position: absolute;
+  top: calc(50% + 15px);
+  right: 189px;
+}
+.traveller-review-awards2 {
+  position: absolute;
+  top: calc(50% + 82px);
+  left: calc(50% - 325.5px);
+}
+.terms-conditions3 {
+  position: absolute;
+  top: calc(50% + 82px);
+  right: 163px;
+}
+.partner-dispute3 {
+  position: absolute;
+  top: calc(50% + 149px);
+  right: 212px;
+}
+.how-we-work4,
+.privacy-cookie2 {
+  position: absolute;
+  top: calc(50% + 216px);
+  right: 233px;
+}
+.privacy-cookie2 {
+  top: calc(50% + 283px);
+  right: 63px;
+}
+.msa-statement3 {
+  position: absolute;
+  right: 210px;
+  bottom: 134px;
+}
+.corporate-contact3 {
+  position: absolute;
+  right: 180px;
+  bottom: 67px;
+}
+.countries5 {
+  position: absolute;
+  bottom: 451px;
+  left: 73px;
+  width: 1741px;
+  height: 1042px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-lightseagreen);
+}
+.mobile-version4,
+.your-account4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-decoration: underline;
+}
+.your-account4 {
+  left: 236px;
+}
+.customer-service-help7,
+.make-changes-to4 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 359.5px);
+  text-decoration: underline;
+}
+.customer-service-help7 {
+  left: calc(50% + 156.5px);
+}
+.bespeakcom-for-business4 {
+  position: absolute;
+  top: 0;
+  right: -1px;
+  text-decoration: underline;
+}
+.links4 {
+  position: absolute;
+  width: calc(100% - 307.5px);
+  right: 216.5px;
+  bottom: 18px;
+  left: 91px;
+  height: 37px;
+}
+.list-your-property-child1 {
+  position: absolute;
+  width: calc(100% + 1.5px);
+  top: calc(50% + 6px);
+  right: 0;
+  left: -1.5px;
+  border-top: 2px solid var(--color-white);
+  box-sizing: border-box;
+  height: 4px;
+}
+.list-your-property15 {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: 25px;
+}
+.list-your-property14 {
+  position: absolute;
+  top: 16px;
+  left: calc(50% - 133.25px);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-darkcyan);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 266px;
+  height: 59px;
+}
+.list-your-property13 {
+  position: absolute;
+  top: 3369px;
+  left: 0;
+  background-color: var(--color-darkturquoise);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1920.5px;
+  height: 167px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+}
+.privacy-statement4 {
+  text-decoration: underline;
+  color: var(--color-blue);
+}
+.you-can-opt-container4 {
+  position: absolute;
+  bottom: 6px;
+  left: calc(50% - 316px);
+  font-weight: 300;
+}
+.your-email-address4 {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: 18px;
+}
+.email4 {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 218px);
+  top: 0;
+  right: 218px;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+}
+.subscribe4 {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: calc(50% - 59px);
+}
+.subscribe-btn4 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-cadetblue);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 210px;
+  color: var(--color-white);
+}
+.email-subscribe4 {
+  position: absolute;
+  top: calc(50% + 41.5px);
+  left: calc(50% - 397px);
+  width: 731px;
+  height: 59px;
+  color: var(--color-dimgray);
+}
+.sign-up-to-container4 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-weight: 300;
+}
+.stay-in-the4 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 122px);
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+  text-align: left;
+}
+.stay-in-the-know9 {
+  position: absolute;
+  width: calc(100% - 356px);
+  top: 27px;
+  right: 178px;
+  left: 178px;
+  height: 149px;
+  text-align: center;
+  color: var(--color-gainsboro);
+}
+.stay-in-the-know8 {
+  position: absolute;
+  top: 3066px;
+  left: 0;
+  background-color: var(--color-darkcyan);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 303px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+}
+.can-i-cancel {
+  position: absolute;
+  top: calc(50% - 29px);
+  left: 19px;
+}
+.dropdown-icon18 {
+  position: absolute;
+  top: calc(50% - 15.34px);
+  right: 28.63px;
+  width: 42.7px;
+  height: 20px;
+}
+.row42 {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 952px;
+  height: 90px;
+}
+.how-do-i {
+  position: absolute;
+  top: calc(50% - 27px);
+  left: 19px;
+}
+.row32 {
+  position: absolute;
+  top: calc(50% - 0px);
+  right: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 952px;
+  height: 90px;
+}
+.whats-included-in {
+  position: absolute;
+  top: calc(50% - 25px);
+  left: 19px;
+}
+.dropdown-icon20 {
+  position: absolute;
+  top: calc(50% - 13.34px);
+  right: 28.63px;
+  width: 42.7px;
+  height: 20px;
+}
+.row1-child,
+.row22 {
+  position: absolute;
+  right: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 952px;
+  height: 90px;
+}
+.row22 {
+  top: calc(50% - 90px);
+}
+.row1-child {
+  top: 0;
+}
+.what-if-my {
+  position: absolute;
+  top: 17px;
+  left: calc(50% - 232px);
+}
+.dropdown-icon21 {
+  position: absolute;
+  top: 35.66px;
+  right: 28.63px;
+  width: 42.7px;
+  height: 20px;
+}
+.help-page {
+  text-decoration: underline;
+  color: var(--color-teal);
+}
+.see-more-faqs-container {
+  position: absolute;
+  top: calc(50% - 80px);
+  left: 15px;
+}
+.learn-more-about {
+  margin: 0;
+}
+.learn-more-about-container {
+  position: absolute;
+  top: 16px;
+  left: 15px;
+  font-size: var(--font-size-6xl);
+}
+.col1-content {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  width: 450px;
+  font-size: 17px;
+  font-family: var(--font-bookman-old-style);
+}
+.col1-content,
+.col2,
+.table {
+  position: absolute;
+}
+.col2 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.table {
+  top: 2526px;
+  left: 97px;
+  width: 1402px;
+  height: 360px;
+  font-family: var(--font-book-antiqua);
+}
+.body2-bg {
+  position: absolute;
+  top: 1744px;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  width: 1920px;
+  height: 690px;
+}
+.suitcase-icon,
+.user-icon {
+  position: absolute;
+  left: 10px;
+  width: 24.7px;
+  object-fit: cover;
+}
+.user-icon {
+  top: 0;
+  height: 23.7px;
+}
+.suitcase-icon {
+  top: calc(50% - 78.33px);
+  height: 22.3px;
+}
+.check-circle-icon {
+  top: calc(50% - 41px);
+  left: 10px;
+  width: 24.7px;
+  height: 27.7px;
+}
+.check-circle-icon,
+.check-icon1,
+.search-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.check-icon1 {
+  top: calc(50% + 1.67px);
+  left: 10px;
+  width: 24.7px;
+  height: 17px;
+}
+.search-icon {
+  bottom: 0;
+  left: 0;
+  width: 95px;
+  height: 42px;
+}
+.free-cancellation2 {
+  position: absolute;
+  top: calc(50% - 1px);
+  left: calc(50% - 80.5px);
+  color: var(--color-dodgerblue);
+}
+.meet-greet {
+  position: absolute;
+  top: calc(50% - 38px);
+  right: -1px;
+  color: var(--color-teal);
+}
+.passengers,
+.standard-bags {
+  position: absolute;
+  left: calc(50% - 80.5px);
+}
+.standard-bags {
+  top: calc(50% - 77px);
+}
+.passengers {
+  top: 1px;
+}
+.standard-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 279px;
+  height: 234px;
+}
+.full-size-sedan,
+.mercedes-benz-e-class-or {
+  position: absolute;
+  top: 45px;
+  left: 0;
+}
+.full-size-sedan {
+  top: 0;
+  font-size: var(--font-size-6xl);
+}
+.full-size {
+  position: absolute;
+  height: calc(100% - 61px);
+  top: 25px;
+  bottom: 36px;
+  left: 24px;
+  width: 330px;
+}
+.box2-content {
+  position: absolute;
+  top: 1985px;
+  left: 857px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 709px;
+  height: 378px;
+  font-family: var(--font-bookman-old-style);
+}
+.standard-content1 {
+  position: absolute;
+  height: calc(100% - 83px);
+  width: 100%;
+  top: 83px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.standard {
+  position: absolute;
+  height: calc(100% - 61px);
+  top: 25px;
+  bottom: 36px;
+  left: 20px;
+  width: 279px;
+}
+.box1-content {
+  position: absolute;
+  top: 1985px;
+  left: 48px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 709px;
+  height: 378px;
+  font-family: var(--font-bookman-old-style);
+}
+.all-taxis {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: 11px;
+}
+.tab3 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 0 var(--br-4xs) var(--br-4xs) 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightseagreen);
+  box-sizing: border-box;
+  width: 101px;
+}
+.passengers2 {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: 12px;
+}
+.tab2 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 50.5px);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightseagreen);
+  box-sizing: border-box;
+  width: 185px;
+}
+.passengers3 {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: 10px;
+}
+.tab1 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-4xs) 0 0 var(--br-4xs);
+  background-color: var(--color-lightseagreen);
+  border: 1px solid var(--color-lightseagreen);
+  box-sizing: border-box;
+  width: 185px;
+  color: var(--color-white);
+}
+.airport-taxis-for,
+.passangers {
+  position: absolute;
+  font-family: var(--font-bookman-old-style);
+}
+.passangers {
+  top: 1898px;
+  left: 48px;
+  width: 471px;
+  height: 42px;
+  color: var(--color-lightseagreen);
+}
+.airport-taxis-for {
+  top: 1795px;
+  left: 496px;
+  font-size: 55px;
+}
+.enjoy-your-trip {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.meet-your-driver {
+  position: absolute;
+  top: calc(50% + 126.5px);
+  right: 78px;
+}
+.arrive-at-your-destination-container {
+  position: absolute;
+  top: calc(50% + 126.5px);
+  left: calc(50% - 122.5px);
+}
+.book-online,
+.receive-confirmation {
+  position: absolute;
+  top: calc(50% - 93.5px);
+}
+.receive-confirmation {
+  right: 49px;
+}
+.book-online {
+  left: calc(50% - 113.5px);
+}
+.chatbox-highlights {
+  position: absolute;
+  height: calc(100% - 61.3px);
+  width: 100%;
+  top: 61.28px;
+  right: 0;
+  bottom: 0.02px;
+  left: 0;
+  background-image: url(./public/chatbox-highlights@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.chatbox-child {
+  position: absolute;
+  height: calc(100% + 0.5px);
+  width: calc(100% + 0.5px);
+  top: 0;
+  right: -0.5px;
+  bottom: -0.5px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.chatbox1,
+.how-does-it {
+  position: absolute;
+  top: 9.28px;
+  left: 11px;
+}
+.chatbox1 {
+  top: 0;
+  left: 3px;
+  width: 248.1px;
+  height: 74.6px;
+  font-size: var(--font-size-11xl);
+}
+.chatbox {
+  position: absolute;
+  top: 1032.72px;
+  right: 257px;
+  width: 565px;
+  height: 618.3px;
+}
+.get-to-your-container {
+  position: absolute;
+  right: -1px;
+  bottom: 0;
+}
+.arriving-at-your {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 228.5px);
+  font-size: var(--font-size-11xl);
+}
+.arriving-icon {
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  width: 87px;
+  height: 87px;
+  object-fit: cover;
+}
+.arriving-at-your-destination {
+  position: absolute;
+  top: 1449px;
+  left: 96px;
+  width: 661px;
+  height: 120px;
+}
+.meeting-your-driver1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 231.5px);
+  font-size: var(--font-size-11xl);
+}
+.meeting-your-driver {
+  position: absolute;
+  top: 1264px;
+  left: 96px;
+  width: 667px;
+  height: 120px;
+}
+.confirmation-is-immediate-container {
+  position: absolute;
+  bottom: 0;
+  left: 102px;
+}
+.booking-your-airport {
+  position: absolute;
+  top: 0;
+  left: 102px;
+  font-size: var(--font-size-11xl);
+}
+.booking-your-airport-taxi {
+  position: absolute;
+  top: 1079px;
+  left: 96px;
+  width: 683px;
+  height: 120px;
+}
+.airport-transportation-made {
+  position: absolute;
+  top: 911px;
+  left: 421px;
+  font-size: var(--font-size-41xl);
+  font-family: var(--font-bookman-old-style);
+}
+.flight-tracking1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 117px);
+  font-size: var(--font-size-6xl);
+}
+.place-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.plane-icon4 {
+  position: absolute;
+  top: calc(50% - 21.05px);
+  left: calc(50% - 24.5px);
+  width: 47.5px;
+  height: 46px;
+  object-fit: cover;
+}
+.flight-tracking,
+.place {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 75px;
+  height: 75px;
+}
+.flight-tracking {
+  bottom: 21px;
+  left: 104px;
+  width: 422px;
+  height: 91px;
+}
+.one-clear-price1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 99.5px);
+  font-size: var(--font-size-6xl);
+}
+.card-icon {
+  position: absolute;
+  width: calc(100% - 21px);
+  top: calc(50% - 16.5px);
+  right: 10px;
+  left: 11px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 34px;
+  object-fit: cover;
+}
+.one-clear-price {
+  position: absolute;
+  bottom: 21px;
+  left: calc(50% - 264px);
+  width: 387px;
+  height: 91px;
+}
+.tried-and-true1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 108.5px);
+  font-size: var(--font-size-6xl);
+}
+.place2 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 75px;
+  height: 75px;
+  background-image: url(./public/place@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.tried-and-true {
+  position: absolute;
+  right: 262px;
+  bottom: 21px;
+  width: 405px;
+  height: 91px;
+}
+.book-your-airport {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-41xl);
+  font-weight: 700;
+}
+.body-1-content3 {
+  top: calc(50% - 181px);
+  left: 123px;
+  width: 958px;
+  height: 141px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-bookman-old-style);
+}
+.body-1-content3,
+.body-13,
+.ngn17 {
+  position: absolute;
+}
+.body-13 {
+  top: 94px;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 690px;
+}
+.ngn17 {
+  top: 0;
+  left: calc(50% - 64px);
+}
+.image-2-icon3 {
+  left: calc(50% + 28px);
+  border-radius: var(--br-smi);
+  width: 43px;
+  object-fit: cover;
+}
+.image-2-icon3,
+.question-circle-o-icon4,
+.user-circle-icon4 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  max-height: 100%;
+}
+.user-circle-icon4 {
+  right: -0.02px;
+  width: 46.2px;
+}
+.question-circle-o-icon4 {
+  left: 0;
+  width: 43.7px;
+}
+.side-nav4 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 284px;
+  height: 42px;
+}
+.header9 {
+  position: absolute;
+  bottom: 1px;
+  left: 145px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1384px;
+  height: 74px;
+}
+.tab1-icon4 {
+  position: absolute;
+  height: calc(100% + 1px);
+  width: calc(100% + 1.6px);
+  top: -0.5px;
+  right: -1.1px;
+  bottom: -0.5px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.stays9 {
+  position: absolute;
+  top: 9px;
+  left: calc(50% - 38.24px);
+}
+.bed-icon4 {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: 14.19px;
+  width: 47.7px;
+  height: 36px;
+}
+.stays8 {
+  position: absolute;
+  height: calc(100% - 1px);
+  top: 0;
+  bottom: 1px;
+  left: 0;
+  width: 222.2px;
+  cursor: pointer;
+}
+.tab2-icon4 {
+  position: absolute;
+  height: calc(100% + 1px);
+  width: calc(100% + 2.2px);
+  top: -0.5px;
+  right: -1.7px;
+  bottom: -0.5px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.flights10 {
+  position: absolute;
+  top: 10px;
+  left: calc(50% - 28.15px);
+}
+.plane-icon5 {
+  position: absolute;
+  top: calc(50% - 18.3px);
+  left: calc(50% - 106.15px);
+  width: 66px;
+  height: 41.1px;
+}
+.flights9 {
+  position: absolute;
+  height: calc(100% - 1.4px);
+  top: 0;
+  bottom: 1.4px;
+  left: 163.86px;
+  width: 304.3px;
+  cursor: pointer;
+}
+.tab3-icon4 {
+  position: absolute;
+  height: calc(100% + 1px);
+  width: calc(100% + 2.4px);
+  top: -0.5px;
+  right: -1.9px;
+  bottom: -0.5px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.car-rentals10 {
+  position: absolute;
+  top: 10px;
+  right: 55.5px;
+}
+.car-sport-sharp-icon4 {
+  position: absolute;
+  top: calc(50% - 19.55px);
+  left: calc(50% - 130.44px);
+  width: 63.7px;
+  height: 41.6px;
+}
+.car-rentals9 {
+  position: absolute;
+  height: calc(100% - 3.5px);
+  top: 0;
+  bottom: 3.5px;
+  left: calc(50% - 292.09px);
+  width: 401.5px;
+  cursor: pointer;
+}
+.tab4-icon4 {
+  position: absolute;
+  height: calc(100% + 1px);
+  width: calc(100% + 2.3px);
+  top: -0.5px;
+  right: -1.8px;
+  bottom: -0.5px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.attractions10 {
+  position: absolute;
+  top: 8px;
+  right: 51.35px;
+}
+.image-3-icon4 {
+  position: absolute;
+  height: calc(100% - 22.5px);
+  top: 11px;
+  bottom: 11.5px;
+  left: calc(50% - 123.6px);
+  max-height: 100%;
+  width: 48px;
+  object-fit: cover;
+}
+.attractions9 {
+  position: absolute;
+  height: calc(100% - 3.5px);
+  top: 0;
+  bottom: 3.5px;
+  left: calc(50% + 40.76px);
+  width: 369.5px;
+  cursor: pointer;
+}
+.airport-taxis10 {
+  position: absolute;
+  top: calc(50% - 24.5px);
+  right: 8px;
+}
+.taxi-icon4 {
+  position: absolute;
+  top: calc(50% - 18.24px);
+  left: calc(50% - 108px);
+  width: 53.5px;
+  height: 33px;
+  object-fit: cover;
+}
+.airport-taxis9 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0.04px;
+  bottom: 0;
+  width: 344px;
+  font-size: var(--font-size-21xl);
+}
+.nav-bar4 {
+  position: absolute;
+  bottom: 0;
+  left: 146.14px;
+  width: 1379.9px;
+  height: 75px;
+  font-size: var(--font-size-26xl);
+  color: var(--color-teal);
+}
+.header8 {
+  position: absolute;
+  top: 26px;
+  left: 38px;
+  width: 1845px;
+  height: 106px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+}
+.airport-taxis8 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 5069px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-calibri);
+}
